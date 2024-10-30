@@ -29,5 +29,5 @@ These are some of the technologies i'm mostly familiarized with. However, I'm al
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocco-bazo/)
-[![portfolio](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://scor19.github.io/portfolio-rocco/)
+[![portfolio](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)](https://scor19.github.io/portfolio-rocco/)
 
